@@ -1,24 +1,42 @@
-# Awesome Interactive Video Marketing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ishandutta2007/Awesome-Interactive-Video-Marketing/) [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Video-Marketing?style=social)](https://github.com/ishandutta2007/Awesome-Interactive-Video-Marketing/stargazers)
+<div align="center">
 
-> A curated directory of leading SaaS platforms, open-source interactive video players, branching video software, shoppable video tools, and engagement frameworks for modern video marketing.
+<img src="./assets/banner.svg" alt="Awesome Interactive Video Marketing Banner" width="100%" />
+
+# 🎬 Awesome Interactive Video Marketing
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
+  <a href="https://www.trackawesomelist.com/ishandutta2007/Awesome-Interactive-Video-Marketing/"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Interactive-Video-Marketing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Video-Marketing?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+<p align="center">
+  <strong>⚡ A curated directory of leading SaaS platforms, open-source interactive video players, branching video software, shoppable video tools, and engagement frameworks for modern video marketing. ⚡</strong>
+</p>
+
+</div>
 
 Interactive video marketing transforms passive viewers into active participants by embedding clickable hotspots, branching decision trees, in-video lead capture forms, quizzes, and shoppable product overlays directly into video streams to radically improve engagement, retention, and conversion rates.
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Feature Comparison Matrix](#feature-comparison-matrix)
-- [Key Selection Criteria](#key-selection-criteria)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer & License](#disclaimer--license)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧩 Feature Comparison Matrix](#-feature-comparison-matrix)
+- [🎯 Key Selection Criteria](#-key-selection-criteria)
+- [🤝 Support & Sponsoring](#-support--sponsoring)
+- [🌟 Star History](#-star-history)
+- [🛠️ How to Contribute](#️-how-to-contribute)
+- [📜 Disclaimer & License](#-disclaimer--license)
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global interactive video and interactive media market is estimated at **$39.6B to $47.9B in 2025** (with the broader interactive streaming segment projected to exceed **$126B by 2030** at a rapid **CAGR of ~24.9%–26.1%**). 
 
@@ -26,11 +44,11 @@ The sector exhibits **moderate fragmentation with specialized tier concentration
 
 ---
 
-## SaaS & Hosted Platforms
+## 🏢 SaaS & Hosted Platforms
 
 The table below ranks prominent commercial interactive video platforms by company scale (valuation or annual revenue), detailing transparent pricing and free tier/trial boundaries.
 
-| Platform | Valuation / Company Scale | Starting Tier Price | Free Tier Limits / Free Trial Policy | Key Interactive Marketing Capabilities |
+| 🏷️ Platform | 💰 Valuation / Company Scale | 💳 Starting Tier Price | 🎁 Free Tier Limits / Free Trial Policy | ✨ Key Interactive Marketing Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[HubSpot Video](https://www.hubspot.com/)** | ~$12.5B Market Cap (~$3.13B Rev) | **$15/mo** (Content Hub Starter billed annually) or $20/mo monthly | **Free Forever**: Basic video hosting & embedding (up to 250 files); interactive forms, CTAs, and video analytics require Starter+ | Native CRM integration, inline lead generation forms, interactive CTAs, automated email workflows, and contact timeline attribution. |
 | **[Vimeo Interactive](https://vimeo.com/)** | ~$1.38B Valuation (~$416M Rev) | **$13/seat/mo** (Starter billed annually) or $21/mo monthly | **Free Forever**: 3 GB total storage for embeddable/private videos, 1 TB monthly bandwidth, Vimeo player watermark. (Advanced Hotspots/Branching Studio requires Enterprise custom quote) | Clickable timeline hotspots, shoppable cards, branching narrative trees, time-triggered overlays, and enterprise video analytics. |
@@ -44,11 +62,11 @@ The table below ranks prominent commercial interactive video platforms by compan
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 Curated open-source interactive video runtimes, branching story frameworks, and shoppable video players on GitHub, ordered by community star count.
 
-| Project | Stars | Primary Language | License | Focus & Architectural Description |
+| 📦 Project | 🌟 Stars | 💻 Language | ⚖️ License | 📝 Focus & Architectural Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[aval](https://github.com/pixel-point/aval)** | [![Stars](https://img.shields.io/github/stars/pixel-point/aval?style=social&color=white)](https://github.com/pixel-point/aval/stargazers) | TypeScript | MIT | High-performance open-source format and engine for interactive web video featuring a built-in finite state machine, frame-accurate seamless transitions, and packed-alpha video transparency. |
 | **[liqvid](https://github.com/liqvidjs/liqvid)** | [![Stars](https://img.shields.io/github/stars/liqvidjs/liqvid?style=social&color=white)](https://github.com/liqvidjs/liqvid/stargazers) | TypeScript / React | MIT | Complete React-based framework for interactive videos, programmatic playback, timeline animations, embedded interactive coding environments, and interactive learning media. |
@@ -65,9 +83,9 @@ Curated open-source interactive video runtimes, branching story frameworks, and 
 
 ---
 
-## Feature Comparison Matrix
+## 🧩 Feature Comparison Matrix
 
-| Use Case / Capability | Recommended SaaS Solution | Recommended Open-Source Alternative | Implementation Strategy |
+| 🎯 Use Case / Capability | 🏢 Recommended SaaS Solution | 💻 Recommended Open-Source Alternative | 🚀 Implementation Strategy |
 | :--- | :--- | :--- | :--- |
 | **E-Commerce & Shoppable Video** | Tolstoy / Spott | Aval / KodaStream | Embed product cards with SKU checkout sync directly over product demonstration reels. |
 | **B2B Lead Generation & Gating** | Wistia / HubSpot / Vidyard | H5P + Custom Webhook Form | Insert form gates at high-intent video timestamps to pass email leads into CRM workflows. |
@@ -77,19 +95,38 @@ Curated open-source interactive video runtimes, branching story frameworks, and 
 
 ---
 
-## Key Selection Criteria
+## 🎯 Key Selection Criteria
 
 When evaluating interactive video solutions for marketing or development, consider the following primary criteria:
 
-1. **Player Latency & Transition Seamlessness**: Does branching trigger a buffering pause, or does the engine preload branches using state machines (e.g., Aval or ivid)?
-2. **CRM & Marketing Automation Sync**: Does the platform provide native connectors for HubSpot, Salesforce, or Marketo, or will you need to build custom webhook listeners?
-3. **Mobile & Cross-Browser Responsiveness**: Ensure that overlay elements (hotspots, forms) display properly inside native iOS and Android browsers without entering restricted native full-screen mode that hides DOM overlays.
-4. **Analytics & Heatmap Granularity**: High-performing video teams require drop-off curve analysis, hotspot click-through rate (CTR), and question answer distributions down to individual viewer sessions.
-5. **Self-Hosting vs. Turnkey Infrastructure**: Self-hosted open-source stacks eliminate recurring subscription and per-view fees but require scalable video transcoding (HLS/DASH) and CDN delivery architecture.
+1. **⚡ Player Latency & Transition Seamlessness**: Does branching trigger a buffering pause, or does the engine preload branches using state machines (e.g., Aval or ivid)?
+2. **🔄 CRM & Marketing Automation Sync**: Does the platform provide native connectors for HubSpot, Salesforce, or Marketo, or will you need to build custom webhook listeners?
+3. **📱 Mobile & Cross-Browser Responsiveness**: Ensure that overlay elements (hotspots, forms) display properly inside native iOS and Android browsers without entering restricted native full-screen mode that hides DOM overlays.
+4. **📈 Analytics & Heatmap Granularity**: High-performing video teams require drop-off curve analysis, hotspot click-through rate (CTR), and question answer distributions down to individual viewer sessions.
+5. **🏗️ Self-Hosting vs. Turnkey Infrastructure**: Self-hosted open-source stacks eliminate recurring subscription and per-view fees but require scalable video transcoding (HLS/DASH) and CDN delivery architecture.
 
 ---
 
-## How to Contribute
+## 🤝 Support & Sponsoring
+
+If you found this curated ecosystem useful for your video marketing stack or technical architecture, please consider showing your support:
+
+- 🌟 **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork the repo** to keep a personal copy or submit new interactive video tools.
+- 📢 **Share with fellow marketers, developers, and founders** building interactive web media.
+- ☕ **Support continuous maintenance & updates**: Buy me a coffee or sponsor ongoing research directly via the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**!
+
+Thank you for being part of the open video marketing community! 💖
+
+---
+
+## 🌟 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Interactive-Video-Marketing&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Interactive-Video-Marketing&type=date&legend=top-left)
+
+---
+
+## 🛠️ How to Contribute
 
 1. Fork the repository.
 2. Ensure new additions align with **interactive video marketing**, **branching video**, or **shoppable video engines**.
@@ -98,7 +135,7 @@ When evaluating interactive video solutions for marketing or development, consid
 
 ---
 
-## Disclaimer & License
+## 📜 Disclaimer & License
 
 - This list is community-curated for informational and architectural evaluation purposes.
 - Check third-party vendor websites directly for current enterprise volume quotes.

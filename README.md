@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
   <a href="https://www.trackawesomelist.com/ishandutta2007/Awesome-Interactive-Video-Marketing/"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Interactive-Video-Marketing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Video-Marketing?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Interactive-Video-Marketing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Video-Marketing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
@@ -64,9 +64,9 @@ The table below ranks prominent commercial interactive video platforms by compan
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source interactive video runtimes, branching story frameworks, and shoppable video players on GitHub, ordered by community star count.
+Curated open-source interactive video runtimes, branching story frameworks, and shoppable video players on GitHub, ordered by community Stars_Count.
 
-| 📦 Project | 🌟 Stars | 💻 Language | ⚖️ License | 📝 Focus & Architectural Description |
+| 📦 Project | 🌟 GitHub_Stars | 💻 Language | ⚖️ License | 📝 Focus & Architectural Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[aval](https://github.com/pixel-point/aval)** | [![Stars](https://img.shields.io/github/stars/pixel-point/aval?style=social&color=white)](https://github.com/pixel-point/aval/stargazers) | TypeScript | MIT | High-performance open-source format and engine for interactive web video featuring a built-in finite state machine, frame-accurate seamless transitions, and packed-alpha video transparency. |
 | **[liqvid](https://github.com/liqvidjs/liqvid)** | [![Stars](https://img.shields.io/github/stars/liqvidjs/liqvid?style=social&color=white)](https://github.com/liqvidjs/liqvid/stargazers) | TypeScript / React | MIT | Complete React-based framework for interactive videos, programmatic playback, timeline animations, embedded interactive coding environments, and interactive learning media. |
@@ -130,7 +130,7 @@ Thank you for being part of the open video marketing community! 💖
 
 1. Fork the repository.
 2. Ensure new additions align with **interactive video marketing**, **branching video**, or **shoppable video engines**.
-3. Format entries with clear descriptions, valid URLs, and accurate star badges: `[![Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`.
+3. Format entries with clear descriptions, valid URLs, and accurate Stars_Badges: `[![Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`.
 4. Submit a Pull Request with a succinct description of the project.
 
 ---
